@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
+    "server": "nodemon app.js",
     "test": "jest",
     "lint": "eslint ."
   },
